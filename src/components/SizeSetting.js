@@ -11,7 +11,7 @@ class SizeSetting extends Component {
         <div className="panel-body">
           <button type="button" className="btn btn-success">Giam</button>&nbsp;
           <button type="button" className="btn btn-success">Tang</button>
-        </div>         
+        </div>
       </div>
     );
   }
