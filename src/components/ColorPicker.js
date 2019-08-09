@@ -16,7 +16,7 @@ class ColorPicker extends Component {
     };
   }
   setActiveColor(color) {
-    this.props.onReceiveColor(color); 
+    this.props.onReceiveColor(color);
   }
 
   render(){
